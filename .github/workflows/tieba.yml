@@ -1,4 +1,6 @@
 name: Daily Tieba Sign-In
+permissions:
+  contents: read
 
 on:
   workflow_dispatch:
